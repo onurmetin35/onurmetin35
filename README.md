@@ -2,7 +2,7 @@
 - 👀 I’m interested in MSSQL and Phython
 - 🌱 I’m currently learning MSSQL and Phython
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me onurmetin@outlook.com.tr
+- 📫 How to reach me onurmetin@mail.com
 
 <!---
 onurmetin35/onurmetin35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
